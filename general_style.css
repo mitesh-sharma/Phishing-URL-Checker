@@ -1,0 +1,24 @@
+#MainMenu {
+    visibility: hidden;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+div [data-testid="stImage"] {
+    align: center;
+    margin: auto;
+}
+
+footer {
+    visibility: hidden;
+}
